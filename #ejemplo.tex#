@@ -48,8 +48,7 @@ donde $\alpha=\frac{b}{1-a}$
 
 Para reducir esta fórmula usamos que $$\sum_{i=0}^{n-1}a^i=\frac{a^n-1}{a-1}$$
 \section{Ecuaciones de segundo Orden}
-%El método para resolver estas ecuaciones esta inspirado en la fórmula \ref{lineal}.
+El método para resolver estas ecuaciones esta inspirado en la fórmula \ref{lineal}.
 
-Para resolver una ecuación en diferencias de segundo orden
 
-\end{document}
+\e
